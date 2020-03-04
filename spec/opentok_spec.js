@@ -3,8 +3,8 @@
 var OpenTok = require('../lib/opentok');
 var nock = require('nock');
 
-var apiKey = 'APIKEY';
-var apiSecret = 'APISECRET';
+var apiKey = '46516382';
+var apiSecret = 'cd7b35b360dbe8e9831f006f46e2b91a8772b27e';
 
 var mockArchiveId = 'e85741ce-d280-4efa-a3ba-93379a68be06';
 var mockSessionId = '1_MX4xMDB-MTI3LjAuMC4xflR1ZSBKYW4gMjggMTU6NDg6NDAgUFNUIDIwMTR-MC43NjAyOTYyfg';
